@@ -1,0 +1,12 @@
+📦 Dépendances
+numpy
+
+pandas
+
+scikit-learn
+
+matplotlib
+
+tkinter
+
+joblib
