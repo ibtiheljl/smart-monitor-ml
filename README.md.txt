@@ -21,5 +21,5 @@ cd smart-monitor-ml
 
 👩‍💻 Réalisé par
 Ibtihel JALEL
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/ibtihel-jalel-a7546b185/
 💼 Embedded SW Engineer – IA enthouthiast
